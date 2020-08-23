@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 App Deployed at : https://whats-app-clone-e995f.web.app
 
-Screenshots
-
 
 
 
